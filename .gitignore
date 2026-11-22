@@ -1,0 +1,14 @@
+# converted audio
+*.dfpwm
+music/
+
+# build / temp
+node_modules/
+convert-log.txt
+_tmp.raw
+*.log
+
+# OS junk
+.DS_Store
+Thumbs.db
+desktop.ini
