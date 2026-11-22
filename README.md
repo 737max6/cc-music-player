@@ -14,6 +14,8 @@
   3. 把 `music.lua` 和 `startup.lua` 放进存档里的
      `saves/<世界名>/computercraft/computer/<电脑ID>/`
   4. 游戏里对电脑输入 `reboot`，或者重新进世界
+  5. 点击右边的 **Releases**，下载 `music.lua` 和 `startup.lua`
+  6. 要转歌的话，再下 `Converter.zip`（解压后把文件夹拖到 `convert.bat` 上）
 
 电脑里也可以直接下载（需要开启 HTTP API）：
 
