@@ -20,6 +20,8 @@
 ```
 wget https://raw.githubusercontent.com/737max6/cc-music-player/main/music.lua music.lua
 wget https://raw.githubusercontent.com/737max6/cc-music-player/main/startup.lua startup.lua
+wget https://cdn.jsdelivr.net/gh/737max6/cc-music-player@main/music.lua music.lua
+wget https://cdn.jsdelivr.net/gh/737max6/cc-music-player@main/startup.lua startup.lua
 ```
 
 ## 如何放歌？
