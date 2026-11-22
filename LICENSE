@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2026 CC Music Player contributors
+Copyright (c) 2026 737max6
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -19,8 +19,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
---------------------------------------------------------------------------
-tools/dfpwm-encode.js is a JavaScript port of the DFPWM encoder from
-CC: Tweaked's cc.audio.dfpwm module, which is licensed under the Mozilla
-Public License 2.0. That file is distributed under MPL-2.0.
