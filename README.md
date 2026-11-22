@@ -95,5 +95,3 @@ song_02=夜に駆ける
 ## 许可证
 
 本项目是 **MIT**；但 `tools/dfpwm-encode.js` 是从 CC: Tweaked 移植的编码器，那个文件按 **MPL-2.0** 走。
-
-# 本程序绝对没有木马/病毒！
