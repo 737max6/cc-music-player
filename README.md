@@ -1,5 +1,7 @@
 # 🎵 CC 音乐播放器 🎵
 
+**中文** · [English](README.en.md)
+
 在 CC: Tweaked 电脑上放背景音乐 —— 显示屏点歌、自动播放歌单、音量随便调。
 
 *CC: Tweaked music player with a monitor UI, playlist autoplay and volume control.*
